@@ -43,4 +43,9 @@ func main() {
 
 	fmt.Println(i, j, k, l)
 	fmt.Println(a, b, c)
+
+	x := 2
+	y := 2
+	// ^ 亦或运算符
+	fmt.Println(x ^ y)
 }
